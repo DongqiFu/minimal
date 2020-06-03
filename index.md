@@ -9,15 +9,15 @@ I am Dongqi Fu, a Ph.D. student in Computer Science at the [University of Illino
 
 ## Education
 
-##### University of Illinois at Urbana-Champaign, Aug 2019 - May 2024 
+#### University of Illinois at Urbana-Champaign, Aug 2019 - May 2024 
 * Ph.D. in Computer Science
 * Advisor: Prof. [Jingrui He](https://www.hejingrui.org/)
 
-##### University of Southern California, Jan 2017 - May 2018
+#### University of Southern California, Jan 2017 - May 2018
 * M.Sc. in Data Informatics
 * Advisor: Prof. [Satish Kumar Thittamaranahalli](http://www.tkskwork.org/)
 
-##### Beijing University of Posts and Telecommunications, Aug 2012 - May 2016 
+#### Beijing University of Posts and Telecommunications, Aug 2012 - May 2016 
 * B.Eng. in Internet of Things Engineering
 
 
