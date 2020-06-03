@@ -11,7 +11,7 @@ I am Dongqi Fu, a Ph.D. student in Computer Science at the [University of Illino
 
 ##### University of Illinois at Urbana-Champaign, Aug 2019 - May 2024 
 * Ph.D. in Computer Science
-* Advisor: Prof. [Jingrui He](https://www.hejingrui.org/)</li>
+* Advisor: Prof. [Jingrui He](https://www.hejingrui.org/)
 
 ##### University of Southern California, Jan 2017 - May 2018
 * M.Sc. in Data Informatics
