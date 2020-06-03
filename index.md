@@ -8,7 +8,7 @@ I am Dongqi Fu, a Ph.D. student in Computer Science at the [University of Illino
 
 ## Education
 <div align="left">
-        <strong> University of Illinois at Urbana-Champaign, (Aug 2019 - May 2024) </strong>
+        <strong> University of Illinois at Urbana-Champaign, Aug 2019 - May 2024 </strong>
         <ul>
         <li>
           Ph.D. in Computer Science</li>
@@ -18,7 +18,7 @@ I am Dongqi Fu, a Ph.D. student in Computer Science at the [University of Illino
 </div>
 
 <div align="left">
-        <strong> University of Southern California, (Jan 2017 - May 2018) </strong>
+        <strong> University of Southern California, Jan 2017 - May 2018 </strong>
         <ul>
         <li>
           M.Sc. in Data Informatics</li>
@@ -28,7 +28,7 @@ I am Dongqi Fu, a Ph.D. student in Computer Science at the [University of Illino
 </div>
 
 <div align="left">
-        <strong> Beijing University of Posts and Telecommunications, (Aug 2012 - May 2016) </strong>
+        <strong> Beijing University of Posts and Telecommunications, Aug 2012 - May 2016 </strong>
         <ul>
         <li>
           B.Eng. in Internet of Things Engineering</li>
