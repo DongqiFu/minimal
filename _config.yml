@@ -1,6 +1,6 @@
 title: Dongqi Fu
 logo: /assets/img/logo.png
-description: Email: dongqif2 AT illinois DOT edu.
-show_downloads: true
+description: "Email: dongqif2 AT illinois DOT edu"
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
