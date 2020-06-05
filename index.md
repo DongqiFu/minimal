@@ -23,5 +23,5 @@ I am Dongqi Fu, a Ph.D. student in Computer Science at the [University of Illino
 
 ## Publications
 
-**Dongqi Fu**, Dawei Zhou, Jingrui He. Local Motif Clustering on Time-Evolving Graphs, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD' 2020**), August 2020 (AC Rate = 16.89%).
+**Dongqi Fu**, Dawei Zhou, Jingrui He. Local Motif Clustering on Time-Evolving Graphs, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD' 2020**), August 2020.
 
