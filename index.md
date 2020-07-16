@@ -22,6 +22,7 @@ I am Dongqi Fu, a Ph.D. student in Computer Science at the [University of Illino
 
 
 ## Publications
-**Dongqi Fu***, Zhe Xu*, Bo Li, Hanghang Tong, Jingrui He, A View-Adversarial Framework for Multi-View Network Embedding, ACM International Conference on Information and Knowledge Management (**CIKM '2020**), October 2020. (* Equal Contribution).
+**Dongqi Fu\***, Zhe Xu\*, Bo Li, Hanghang Tong, Jingrui He, A View-Adversarial Framework for Multi-View Network Embedding, ACM International Conference on Information and Knowledge Management (**CIKM '2020**), October 2020. (\* Equal Contribution).
+
 **Dongqi Fu**, Dawei Zhou, Jingrui He. Local Motif Clustering on Time-Evolving Graphs, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD' 2020**), August 2020. [[Paper]](https://github.com/DongqiFu/L-MEGA/blob/master/paper/Local%20Motif%20Clustering%20on%20Time-Evolving%20Graphs.pdf)
 
