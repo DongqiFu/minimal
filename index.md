@@ -28,4 +28,5 @@ I am Dongqi Fu, a Ph.D. student in Computer Science at the [University of Illino
 
 
 ## Awards
+CIKM' 2020 Student Travel Award
 KDD' 2020 Student Travel Award
