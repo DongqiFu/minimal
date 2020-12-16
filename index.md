@@ -15,7 +15,7 @@ I am Dongqi Fu, a Ph.D. student in Computer Science at the [University of Illino
 
 #### University of Southern California, Jan 2017 - May 2018
 * M.Sc. in Data Informatics
-* Advisor: Prof. [T. K. Satish Kumar](http://www.tkskwork.org/)
+* Advisor: Prof. [Satish Kumar Thittamaranahalli](http://www.tkskwork.org/)
 
 #### Beijing University of Posts and Telecommunications, Aug 2012 - May 2016 
 * B.Eng. in Internet of Things Engineering
