@@ -9,7 +9,7 @@ I am Dongqi Fu, a Ph.D. student in Computer Science at the [University of Illino
 
 ## Education
 
-#### University of Illinois at Urbana-Champaign, Aug 2019 - May 2024 
+#### University of Illinois at Urbana-Champaign, Aug 2019 - May 2024 (Expected)
 * Ph.D. in Computer Science
 * Advisor: Prof. [Jingrui He](https://www.hejingrui.org/)
 
