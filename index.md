@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## About Me
-I am Dongqi Fu, a Ph.D. student in Computer Science at the [University of Illinois at Urbana-Champaign](https://illinois.edu/). It is my great honor to be the student of Prof. [Jingrui He](https://www.hejingrui.org/) at [iSAIL Lab](https://isail-laboratory.github.io/). My research interests focus on Temporal Graph Representation Learning, Temporal Graph Description, and Temporal Graph Mining Downstream Tasks.
+I am Dongqi Fu, a Ph.D. student in Computer Science at the [University of Illinois at Urbana-Champaign](https://illinois.edu/). It is my great honor to be the student of Prof. [Jingrui He](https://www.hejingrui.org/) at [iSAIL Lab](https://isail-laboratory.github.io/). My research interests focus on Temporal Graph Representation and Temporal Graph Mining.
 
 
 ## Education
