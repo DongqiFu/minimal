@@ -31,6 +31,5 @@ I am Dongqi Fu, a Ph.D. student in Computer Science at the [University of Illino
 * [KDD' 2020](https://www.kdd.org/kdd2020/) Student Travel Award
 
 ## Services
-* [IJCAI' 2021](https://ijcai-21.org/) Program Committee Member
-* [SDM' 2021](https://www.siam.org/conferences/cm/conference/sdm21) Program Committee Member
-* [DLG-AAAI' 2021](https://deep-learning-graphs.bitbucket.io/dlg-aaai21/index.html) Program Committee Member
+* Journal Reviewer: [TKDD](https://dl.acm.org/journal/tkdd)
+* Program Committee Member: [IJCAI' 2021](https://ijcai-21.org/), [SDM' 2021](https://www.siam.org/conferences/cm/conference/sdm21), [DLG-AAAI' 2021](https://deep-learning-graphs.bitbucket.io/dlg-aaai21/index.html)
