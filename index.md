@@ -21,6 +21,8 @@ I am Dongqi Fu, a Ph.D. student in Computer Science at the [University of Illino
 
 
 ## Publications
+**Dongqi Fu** and Jingrui He. SDG: A Simplified and Dynamic Graph Neural Network. _The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2021**)_, July 2021. [To Appear]
+
 **Dongqi Fu\***, Zhe Xu\*, Bo Li, Hanghang Tong, and Jingrui He. [A View-Adversarial Framework for Multi-View Network Embedding](https://github.com/DongqiFu/VANE), _The 29th ACM International Conference on Information and Knowledge Management (**CIKM' 2020**)_, October 2020. (\*Equal Contribution). [[Paper]](https://github.com/DongqiFu/VANE/blob/master/paper/A%20View-Adversarial%20Framework%20for%20Multi-View%20Network%20Embedding.pdf)[[Slides]](https://github.com/DongqiFu/VANE/blob/master/slides/CIKM'20_VANE_Presentation_Slides.pdf)[[Video]](https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3340531.3412127&file=3340531.3412127.mp4&download=true)[[Code]](https://github.com/pricexu/VANE)
 
 **Dongqi Fu**, Dawei Zhou, and Jingrui He. [Local Motif Clustering on Time-Evolving Graphs](https://github.com/DongqiFu/L-MEGA), _The 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD' 2020**)_, August 2020. [[Paper]](https://github.com/DongqiFu/L-MEGA/blob/master/paper/Local%20Motif%20Clustering%20on%20Time-Evolving%20Graphs.pdf)[[Slides]](https://github.com/DongqiFu/L-MEGA/blob/master/slides/KDD'20_L-MEGA_Slides.pdf)[[Video]](https://www.youtube.com/watch?v=2Z-SS1IchGc&feature=emb_title)[[Code]](https://github.com/DongqiFu/L-MEGA)
